@@ -1,0 +1,17 @@
+Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+The goal of the project was to develop an app that functions to track inventory. The app needed to be user friendly and it needs to have a user login and a list view of the items in the invetory including add, delete, edit.
+
+What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
+First you need a user login screen. Then you need a create account screen to get the user. Once you have that then you need the actually list of the inventory.
+
+How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?
+I had the worst approach to the project... i did it late. I began to do the project throughout the week bu then I waited unitl last minute to finish it. I began by makin gthe code to ensure that the app was functional like user login, inventory list, etc. The strategy i used to was to start from the beginin and create the code from begining to end. For example you start with login, then create account, add information, edit or delete, etc. In the way that a user would use an app. In the future doing the project on time would ensure that I would make it funcitonal and I will contnue to do the code the way I did from beginng to end.
+
+How did you test to ensure your code was functional? Why is this process important and what did it reveal?
+I tested the code over and over again but I created my app on a file for earlier an project so the whole files directorys and gradle were all messed up. I tried to figure it out but I ran out of time to be honest. If i had more tiime I wouldve created a whole new file and copeid the code over but and debug that and hope there is better luck there.
+
+Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?
+When I first though of the app I had two screens designed that when I began to code I realized that its more effiecient and user friendly if I rmeoved them and made it as simple as possible. Other than that I just added the  details to the app as i finalized it. Such as, add, edit and remove buttons. My main challenge was to get the app to run I could not overcome that, I believe I played around with one too many things and I needed to create a new file completely and start from nothing.  
+
+In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+I believe in the code I show the skill to make the app function I just need more experience using the android studio app. Aside from the setup issues with android studios, The code is clean and includes every thing you need to run the code and the layouts were easy to understand and to use. Overall I understood the language and the methods in order to make an app gather and use information in the right way in order to make a successfull app.
